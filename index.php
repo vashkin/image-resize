@@ -1,0 +1,1 @@
+<img src='img-resize.php?src=img.png&w=200&h=100'>
